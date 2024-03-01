@@ -8,9 +8,9 @@ Official repository - [YOLOv7: Trainable bag-of-freebies sets new state-of-the-a
 Load project
 
 ``` shell
-git clone git@git.visionlabs.ru:s.tazhimbetov/yolo_v7.git
+git clone https://github.com/ShokanTK/Yolo_v7.git
 
-cd yolo_v7
+cd Yolo_v7
 
 wget https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yolov7-w6.pt
 
